@@ -1,0 +1,2478 @@
+{
+  "ftp://if0_34646636@ftpupload.net:21": {
+    ".htaccess": {
+      "type": "-",
+      "size": 534,
+      "lmtime": 0,
+      "modified": false
+    },
+    ".override": {
+      "type": "-",
+      "size": 0,
+      "lmtime": 0,
+      "modified": false
+    },
+    "DO NOT UPLOAD FILES HERE": {
+      "type": "-",
+      "size": 0,
+      "lmtime": 0,
+      "modified": false
+    },
+    "htdocs": {
+      "20810206_BT01": {},
+      "2k13E-20810206-Web2": {
+        "CEmployee_20810206.php": {
+          "type": "-",
+          "size": 1451,
+          "lmtime": 1692191015004.4524,
+          "modified": false
+        },
+        "Data_20810206_Employee.php": {
+          "type": "-",
+          "size": 2713,
+          "lmtime": 1692192346047.7593,
+          "modified": false
+        },
+        "about.php": {
+          "type": "-",
+          "size": 467,
+          "lmtime": 1692189548353.627,
+          "modified": false
+        },
+        "add.php": {
+          "type": "-",
+          "size": 1312,
+          "lmtime": 1692192078211.36,
+          "modified": false
+        },
+        "contact.php": {
+          "type": "-",
+          "size": 1627,
+          "lmtime": 1692189865737.0754,
+          "modified": false
+        },
+        "css": {
+          "bootstrap.min.css": {
+            "type": "-",
+            "size": 124962,
+            "lmtime": 1502373132000,
+            "modified": false
+          },
+          "desktop.ini": {
+            "type": "-",
+            "size": 244,
+            "lmtime": 1692165428000,
+            "modified": false
+          },
+          "tooplate-style.css": {
+            "type": "-",
+            "size": 8555,
+            "lmtime": 1511515610000,
+            "modified": false
+          }
+        },
+        "font-awesome-4.7.0": {
+          "css": {
+            "desktop.ini": {
+              "type": "-",
+              "size": 244,
+              "lmtime": 1692165428000,
+              "modified": false
+            },
+            "font-awesome.css": {
+              "type": "-",
+              "size": 37414,
+              "lmtime": 1495532632000,
+              "modified": false
+            },
+            "font-awesome.min.css": {
+              "type": "-",
+              "size": 31000,
+              "lmtime": 1495532634000,
+              "modified": false
+            }
+          },
+          "desktop.ini": {
+            "type": "-",
+            "size": 244,
+            "lmtime": 1692165428000,
+            "modified": false
+          },
+          "fonts": {
+            "desktop.ini": {
+              "type": "-",
+              "size": 244,
+              "lmtime": 1692165428000,
+              "modified": false
+            },
+            "fontawesome-webfont.eot": {
+              "type": "-",
+              "size": 165742,
+              "lmtime": 1495532632000,
+              "modified": false
+            },
+            "fontawesome-webfont.svg": {
+              "type": "-",
+              "size": 444379,
+              "lmtime": 1495532632000,
+              "modified": false
+            },
+            "fontawesome-webfont.ttf": {
+              "type": "-",
+              "size": 165548,
+              "lmtime": 1495532632000,
+              "modified": false
+            },
+            "fontawesome-webfont.woff": {
+              "type": "-",
+              "size": 98024,
+              "lmtime": 1495532632000,
+              "modified": false
+            },
+            "fontawesome-webfont.woff2": {
+              "type": "-",
+              "size": 77160,
+              "lmtime": 1495532632000,
+              "modified": false
+            },
+            "FontAwesome.otf": {
+              "type": "-",
+              "size": 134808,
+              "lmtime": 1495532632000,
+              "modified": false
+            }
+          },
+          "HELP-US-OUT.txt": {
+            "type": "-",
+            "size": 323,
+            "lmtime": 1495532632000,
+            "modified": false
+          }
+        },
+        "img": {
+          "1080x360-01.jpg": {
+            "type": "-",
+            "size": 118219,
+            "lmtime": 1505443476000,
+            "modified": false
+          },
+          "575x400-01.jpg": {
+            "type": "-",
+            "size": 39215,
+            "lmtime": 1505463266000,
+            "modified": false
+          },
+          "575x400-02.jpg": {
+            "type": "-",
+            "size": 45696,
+            "lmtime": 1505467086000,
+            "modified": false
+          },
+          "610x610-01.jpg": {
+            "type": "-",
+            "size": 84161,
+            "lmtime": 1505703578000,
+            "modified": false
+          },
+          "610x610-02.jpg": {
+            "type": "-",
+            "size": 81832,
+            "lmtime": 1505703488000,
+            "modified": false
+          },
+          "610x610-03.jpg": {
+            "type": "-",
+            "size": 56670,
+            "lmtime": 1505703364000,
+            "modified": false
+          },
+          "610x610-04.jpg": {
+            "type": "-",
+            "size": 73428,
+            "lmtime": 1505703658000,
+            "modified": false
+          },
+          "desktop.ini": {
+            "type": "-",
+            "size": 244,
+            "lmtime": 1692165428000,
+            "modified": false
+          },
+          "gallery-img-11-01.jpg": {
+            "type": "-",
+            "size": 48823,
+            "lmtime": 1505551298000,
+            "modified": false
+          },
+          "gallery-img-11-02.jpg": {
+            "type": "-",
+            "size": 23759,
+            "lmtime": 1505551378000,
+            "modified": false
+          },
+          "gallery-img-11-03.jpg": {
+            "type": "-",
+            "size": 11522,
+            "lmtime": 1505551464000,
+            "modified": false
+          },
+          "gallery-img-11-04.jpg": {
+            "type": "-",
+            "size": 24925,
+            "lmtime": 1505551552000,
+            "modified": false
+          },
+          "gallery-img-11-05.jpg": {
+            "type": "-",
+            "size": 22398,
+            "lmtime": 1505551614000,
+            "modified": false
+          },
+          "gallery-img-11-06.jpg": {
+            "type": "-",
+            "size": 19454,
+            "lmtime": 1505552022000,
+            "modified": false
+          },
+          "gallery-img-11-07.jpg": {
+            "type": "-",
+            "size": 42160,
+            "lmtime": 1505552050000,
+            "modified": false
+          },
+          "gallery-img-12-01.jpg": {
+            "type": "-",
+            "size": 27510,
+            "lmtime": 1505563112000,
+            "modified": false
+          },
+          "gallery-img-12-02.jpg": {
+            "type": "-",
+            "size": 21145,
+            "lmtime": 1505563194000,
+            "modified": false
+          },
+          "gallery-img-12-03.jpg": {
+            "type": "-",
+            "size": 20770,
+            "lmtime": 1505563424000,
+            "modified": false
+          },
+          "gallery-img-12-04.jpg": {
+            "type": "-",
+            "size": 44838,
+            "lmtime": 1505563464000,
+            "modified": false
+          },
+          "gallery-img-23-01.jpg": {
+            "type": "-",
+            "size": 20962,
+            "lmtime": 1505551738000,
+            "modified": false
+          },
+          "gallery-img-23-02.jpg": {
+            "type": "-",
+            "size": 29669,
+            "lmtime": 1505551792000,
+            "modified": false
+          },
+          "gallery-img-23-03.jpg": {
+            "type": "-",
+            "size": 34157,
+            "lmtime": 1505551850000,
+            "modified": false
+          },
+          "gallery-img-23-04.jpg": {
+            "type": "-",
+            "size": 29707,
+            "lmtime": 1505551908000,
+            "modified": false
+          },
+          "gallery-img-23-05.jpg": {
+            "type": "-",
+            "size": 58894,
+            "lmtime": 1505551970000,
+            "modified": false
+          }
+        },
+        "index.php": {
+          "type": "-",
+          "size": 433,
+          "lmtime": 1692189104250.759,
+          "modified": false
+        },
+        "js": {
+          "desktop.ini": {
+            "type": "-",
+            "size": 244,
+            "lmtime": 1692165428000,
+            "modified": false
+          },
+          "imagesloaded.pkgd.min.js": {
+            "type": "-",
+            "size": 5559,
+            "lmtime": 1505563798000,
+            "modified": false
+          },
+          "jquery-1.11.3.min.js": {
+            "type": "-",
+            "size": 95992,
+            "lmtime": 1453256832000,
+            "modified": false
+          },
+          "masonry.pkgd.min.js": {
+            "type": "-",
+            "size": 24082,
+            "lmtime": 1505562898000,
+            "modified": false
+          }
+        },
+        "shared": {
+          "about_content.php": {
+            "type": "-",
+            "size": 3852,
+            "lmtime": 1692189530417.258,
+            "modified": false
+          },
+          "banner.php": {
+            "type": "-",
+            "size": 289,
+            "lmtime": 1692188730510.636,
+            "modified": false
+          },
+          "contact_content.php": {
+            "type": "-",
+            "size": 2226,
+            "lmtime": 1692189756129.266,
+            "modified": false
+          },
+          "footer.php": {
+            "type": "-",
+            "size": 1418,
+            "lmtime": 1692188603042.2322,
+            "modified": false
+          },
+          "gallery.php": {
+            "type": "-",
+            "size": 1016,
+            "lmtime": 1692188880647.2231,
+            "modified": false
+          },
+          "header.php": {
+            "type": "-",
+            "size": 1285,
+            "lmtime": 1692189319828.2473,
+            "modified": false
+          },
+          "menu.php": {
+            "type": "-",
+            "size": 1171,
+            "lmtime": 1692192055138.872,
+            "modified": false
+          },
+          "timeline_content.php": {
+            "type": "-",
+            "size": 4360,
+            "lmtime": 1692189194668.601,
+            "modified": false
+          },
+          "timeline_item.php": {
+            "type": "-",
+            "size": 899,
+            "lmtime": 1692190843421.7075,
+            "modified": false
+          }
+        },
+        "show.php": {
+          "type": "-",
+          "size": 550,
+          "lmtime": 1692191412434.8079,
+          "modified": false
+        },
+        "submit.php": {
+          "type": "-",
+          "size": 1488,
+          "lmtime": 1692192023334.3203,
+          "modified": false
+        },
+        "timeline.php": {
+          "type": "-",
+          "size": 452,
+          "lmtime": 1692189917448.8662,
+          "modified": false
+        }
+      },
+      "css": {
+        "style.css": {
+          "type": "-",
+          "size": 183671,
+          "lmtime": 1690034865129.1113,
+          "modified": false
+        },
+        "style.min.css": {
+          "type": "-",
+          "size": 149428,
+          "lmtime": 1690034865158.0327,
+          "modified": false
+        }
+      },
+      "favicon.ico": {
+        "type": "-",
+        "size": 202575,
+        "lmtime": 1293759606000,
+        "modified": false
+      },
+      "img": {
+        "about.jpg": {
+          "type": "-",
+          "size": 251683,
+          "lmtime": 1690035183762.9373,
+          "modified": false
+        },
+        "profile.jpg": {
+          "type": "-",
+          "size": 79364,
+          "lmtime": 1690035285011.371,
+          "modified": false
+        }
+      },
+      "index-wam.php": {
+        "type": "-",
+        "size": 29086,
+        "lmtime": 1690032812733.519,
+        "modified": false
+      },
+      "index.php": {
+        "type": "-",
+        "size": 11316,
+        "lmtime": 1690037406973.5298,
+        "modified": false
+      },
+      "js": {
+        "main.js": {
+          "type": "-",
+          "size": 3286,
+          "lmtime": 1690034865348.5237,
+          "modified": false
+        }
+      },
+      "lib": {
+        "typed": {
+          "typed.js": {
+            "type": "-",
+            "size": 32825,
+            "lmtime": 1690034865906.0322,
+            "modified": false
+          },
+          "typed.min.js": {
+            "type": "-",
+            "size": 11749,
+            "lmtime": 1690034865932.9624,
+            "modified": false
+          }
+        },
+        "easing": {
+          "easing.js": {
+            "type": "-",
+            "size": 4092,
+            "lmtime": 1690037230066.9597,
+            "modified": false
+          },
+          "easing.min.js": {
+            "type": "-",
+            "size": 2303,
+            "lmtime": 1690037230092.8882,
+            "modified": false
+          }
+        }
+      },
+      "tuan-10": {
+        "index.php": {
+          "type": "-",
+          "size": 265,
+          "lmtime": 1690037083997.214,
+          "modified": false
+        }
+      },
+      "tuan-3": {
+        "20810206-SharedParts": {
+          "about-20810206.php": {
+            "type": "-",
+            "size": 2146,
+            "lmtime": 1690648549230.4626,
+            "modified": false
+          },
+          "banner-20810206.php": {
+            "type": "-",
+            "size": 1936,
+            "lmtime": 1690650127937.313,
+            "modified": false
+          },
+          "blog-20810206.php": {
+            "type": "-",
+            "size": 3566,
+            "lmtime": 1690647714671.6406,
+            "modified": false
+          },
+          "card-20810206.php": {
+            "type": "-",
+            "size": 782,
+            "lmtime": 1690652155335.4973,
+            "modified": false
+          },
+          "contact-20810206.php": {
+            "type": "-",
+            "size": 2527,
+            "lmtime": 1690648716064.453,
+            "modified": false
+          },
+          "footer-20810206.php": {
+            "type": "-",
+            "size": 3666,
+            "lmtime": 1690652501885.6177,
+            "modified": false
+          },
+          "fun-facts-20810206.php": {
+            "type": "-",
+            "size": 1214,
+            "lmtime": 1690647619417.8667,
+            "modified": false
+          },
+          "header-20810206.php": {
+            "type": "-",
+            "size": 2160,
+            "lmtime": 1690652431976.249,
+            "modified": false
+          },
+          "portfolio-20810206.php": {
+            "type": "-",
+            "size": 4751,
+            "lmtime": 1690647482494.032,
+            "modified": false
+          },
+          "service-20810206.php": {
+            "type": "-",
+            "size": 4104,
+            "lmtime": 1690650255866.3147,
+            "modified": false
+          },
+          "team-20810206.php": {
+            "type": "-",
+            "size": 6442,
+            "lmtime": 1690649479638.0437,
+            "modified": false
+          },
+          "testimonial-20810206.php": {
+            "type": "-",
+            "size": 1934,
+            "lmtime": 1690647661878.669,
+            "modified": false
+          }
+        },
+        "assets": {
+          "css": {
+            "creative-studio.css": {
+              "type": "-",
+              "size": 247926,
+              "lmtime": 1565877304000,
+              "modified": false
+            }
+          },
+          "imgs": {
+            "about.jpg": {
+              "type": "-",
+              "size": 251683,
+              "lmtime": 1690035183762.9373,
+              "modified": false
+            },
+            "avatar-1.jpg": {
+              "type": "-",
+              "size": 21529,
+              "lmtime": 1565866070000,
+              "modified": false
+            },
+            "avatar-2.jpg": {
+              "type": "-",
+              "size": 17714,
+              "lmtime": 1565866070000,
+              "modified": false
+            },
+            "avatar-3.jpg": {
+              "type": "-",
+              "size": 34737,
+              "lmtime": 1565866070000,
+              "modified": false
+            },
+            "avatar-4.jpg": {
+              "type": "-",
+              "size": 9338,
+              "lmtime": 1565866070000,
+              "modified": false
+            },
+            "avatar-5.jpg": {
+              "type": "-",
+              "size": 23996,
+              "lmtime": 1565866070000,
+              "modified": false
+            },
+            "avatar-6.jpg": {
+              "type": "-",
+              "size": 22929,
+              "lmtime": 1565866070000,
+              "modified": false
+            },
+            "avatar-7.jpg": {
+              "type": "-",
+              "size": 15679,
+              "lmtime": 1565866070000,
+              "modified": false
+            },
+            "avatar.jpg": {
+              "type": "-",
+              "size": 79364,
+              "lmtime": 1690035285011.371,
+              "modified": false
+            },
+            "blog-1.jpg": {
+              "type": "-",
+              "size": 39727,
+              "lmtime": 1565866070000,
+              "modified": false
+            },
+            "blog-2.jpg": {
+              "type": "-",
+              "size": 37136,
+              "lmtime": 1565866070000,
+              "modified": false
+            },
+            "blog-3.jpg": {
+              "type": "-",
+              "size": 31032,
+              "lmtime": 1565866070000,
+              "modified": false
+            },
+            "folio-1.jpg": {
+              "type": "-",
+              "size": 42276,
+              "lmtime": 1565866070000,
+              "modified": false
+            },
+            "folio-2.jpg": {
+              "type": "-",
+              "size": 31400,
+              "lmtime": 1565866070000,
+              "modified": false
+            },
+            "folio-3.jpg": {
+              "type": "-",
+              "size": 12460,
+              "lmtime": 1565866070000,
+              "modified": false
+            },
+            "folio-4.jpg": {
+              "type": "-",
+              "size": 72801,
+              "lmtime": 1565866070000,
+              "modified": false
+            },
+            "folio-5.jpg": {
+              "type": "-",
+              "size": 45476,
+              "lmtime": 1565866070000,
+              "modified": false
+            },
+            "folio-6.jpg": {
+              "type": "-",
+              "size": 19110,
+              "lmtime": 1565866070000,
+              "modified": false
+            },
+            "header.jpg": {
+              "type": "-",
+              "size": 284156,
+              "lmtime": 1565446508000,
+              "modified": false
+            },
+            "logo.png": {
+              "type": "-",
+              "size": 14245,
+              "lmtime": 1565866070000,
+              "modified": false
+            },
+            "section.jpg": {
+              "type": "-",
+              "size": 184850,
+              "lmtime": 1565866070000,
+              "modified": false
+            }
+          },
+          "js": {
+            "creative-studio.js": {
+              "type": "-",
+              "size": 905,
+              "lmtime": 1690648307653.046,
+              "modified": false
+            }
+          },
+          "scss": {
+            "abstracts": {
+              "_mixins.scss": {
+                "type": "-",
+                "size": 59,
+                "lmtime": 1565866070000,
+                "modified": false
+              },
+              "_variables.scss": {
+                "type": "-",
+                "size": 7728,
+                "lmtime": 1565875988000,
+                "modified": false
+              },
+              "mixins": {
+                "_thumbnails.scss": {
+                  "type": "-",
+                  "size": 91,
+                  "lmtime": 1565866070000,
+                  "modified": false
+                },
+                "_transitions.scss": {
+                  "type": "-",
+                  "size": 1903,
+                  "lmtime": 1565866070000,
+                  "modified": false
+                }
+              }
+            },
+            "base": {
+              "_base.scss": {
+                "type": "-",
+                "size": 233,
+                "lmtime": 1565866070000,
+                "modified": false
+              },
+              "_typography.scss": {
+                "type": "-",
+                "size": 176,
+                "lmtime": 1565866070000,
+                "modified": false
+              },
+              "_utilities.scss": {
+                "type": "-",
+                "size": 346,
+                "lmtime": 1565877290000,
+                "modified": false
+              }
+            },
+            "components": {
+              "_buttons.scss": {
+                "type": "-",
+                "size": 408,
+                "lmtime": 1565866070000,
+                "modified": false
+              },
+              "_cards.scss": {
+                "type": "-",
+                "size": 8805,
+                "lmtime": 1565866070000,
+                "modified": false
+              },
+              "_code.scss": {
+                "type": "-",
+                "size": 154,
+                "lmtime": 1565866070000,
+                "modified": false
+              },
+              "_dropdowns.scss": {
+                "type": "-",
+                "size": 37,
+                "lmtime": 1565866070000,
+                "modified": false
+              },
+              "_navbars.scss": {
+                "type": "-",
+                "size": 1562,
+                "lmtime": 1565866070000,
+                "modified": false
+              }
+            },
+            "creative-studio.scss": {
+              "type": "-",
+              "size": 2510,
+              "lmtime": 1565877304000,
+              "modified": false
+            },
+            "layout": {
+              "_footer.scss": {
+                "type": "-",
+                "size": 1785,
+                "lmtime": 1565866070000,
+                "modified": false
+              },
+              "_header.scss": {
+                "type": "-",
+                "size": 1338,
+                "lmtime": 1565876218000,
+                "modified": false
+              },
+              "_sections.scss": {
+                "type": "-",
+                "size": 2403,
+                "lmtime": 1565866070000,
+                "modified": false
+              }
+            },
+            "vendors": {
+              "bootstrap-4.3.1": {
+                "_alert.scss": {
+                  "type": "-",
+                  "size": 1148,
+                  "lmtime": 1565866070000,
+                  "modified": false
+                },
+                "_badge.scss": {
+                  "type": "-",
+                  "size": 1119,
+                  "lmtime": 1565866070000,
+                  "modified": false
+                },
+                "_breadcrumb.scss": {
+                  "type": "-",
+                  "size": 1278,
+                  "lmtime": 1565866070000,
+                  "modified": false
+                },
+                "_button-group.scss": {
+                  "type": "-",
+                  "size": 3624,
+                  "lmtime": 1565866070000,
+                  "modified": false
+                },
+                "_buttons.scss": {
+                  "type": "-",
+                  "size": 2547,
+                  "lmtime": 1565866070000,
+                  "modified": false
+                },
+                "_card.scss": {
+                  "type": "-",
+                  "size": 5872,
+                  "lmtime": 1565866070000,
+                  "modified": false
+                },
+                "_carousel.scss": {
+                  "type": "-",
+                  "size": 4756,
+                  "lmtime": 1565866070000,
+                  "modified": false
+                },
+                "_close.scss": {
+                  "type": "-",
+                  "size": 956,
+                  "lmtime": 1565866070000,
+                  "modified": false
+                },
+                "_code.scss": {
+                  "type": "-",
+                  "size": 1013,
+                  "lmtime": 1565866070000,
+                  "modified": false
+                },
+                "_custom-forms.scss": {
+                  "type": "-",
+                  "size": 14866,
+                  "lmtime": 1565866070000,
+                  "modified": false
+                },
+                "_dropdown.scss": {
+                  "type": "-",
+                  "size": 4363,
+                  "lmtime": 1565866070000,
+                  "modified": false
+                },
+                "_forms.scss": {
+                  "type": "-",
+                  "size": 8816,
+                  "lmtime": 1565866070000,
+                  "modified": false
+                },
+                "_functions.scss": {
+                  "type": "-",
+                  "size": 2719,
+                  "lmtime": 1565866070000,
+                  "modified": false
+                },
+                "_grid.scss": {
+                  "type": "-",
+                  "size": 1016,
+                  "lmtime": 1565866070000,
+                  "modified": false
+                },
+                "_images.scss": {
+                  "type": "-",
+                  "size": 1153,
+                  "lmtime": 1565866070000,
+                  "modified": false
+                },
+                "_input-group.scss": {
+                  "type": "-",
+                  "size": 5855,
+                  "lmtime": 1565866070000,
+                  "modified": false
+                },
+                "_jumbotron.scss": {
+                  "type": "-",
+                  "size": 405,
+                  "lmtime": 1565866070000,
+                  "modified": false
+                },
+                "_list-group.scss": {
+                  "type": "-",
+                  "size": 3752,
+                  "lmtime": 1565866070000,
+                  "modified": false
+                },
+                "_media.scss": {
+                  "type": "-",
+                  "size": 83,
+                  "lmtime": 1565866070000,
+                  "modified": false
+                },
+                "_mixins.scss": {
+                  "type": "-",
+                  "size": 1059,
+                  "lmtime": 1565866070000,
+                  "modified": false
+                },
+                "_modal.scss": {
+                  "type": "-",
+                  "size": 5930,
+                  "lmtime": 1565866070000,
+                  "modified": false
+                },
+                "_nav.scss": {
+                  "type": "-",
+                  "size": 2069,
+                  "lmtime": 1565866070000,
+                  "modified": false
+                },
+                "_navbar.scss": {
+                  "type": "-",
+                  "size": 6415,
+                  "lmtime": 1565866070000,
+                  "modified": false
+                },
+                "_pagination.scss": {
+                  "type": "-",
+                  "size": 1740,
+                  "lmtime": 1565866070000,
+                  "modified": false
+                },
+                "_popover.scss": {
+                  "type": "-",
+                  "size": 4797,
+                  "lmtime": 1565866070000,
+                  "modified": false
+                },
+                "_print.scss": {
+                  "type": "-",
+                  "size": 3001,
+                  "lmtime": 1565866070000,
+                  "modified": false
+                },
+                "_progress.scss": {
+                  "type": "-",
+                  "size": 1068,
+                  "lmtime": 1565866070000,
+                  "modified": false
+                },
+                "_reboot.scss": {
+                  "type": "-",
+                  "size": 11187,
+                  "lmtime": 1565866070000,
+                  "modified": false
+                },
+                "_root.scss": {
+                  "type": "-",
+                  "size": 572,
+                  "lmtime": 1565866070000,
+                  "modified": false
+                },
+                "_spinners.scss": {
+                  "type": "-",
+                  "size": 1051,
+                  "lmtime": 1565866070000,
+                  "modified": false
+                },
+                "_tables.scss": {
+                  "type": "-",
+                  "size": 3520,
+                  "lmtime": 1565866070000,
+                  "modified": false
+                },
+                "_toasts.scss": {
+                  "type": "-",
+                  "size": 990,
+                  "lmtime": 1565866070000,
+                  "modified": false
+                },
+                "_tooltip.scss": {
+                  "type": "-",
+                  "size": 2512,
+                  "lmtime": 1565866070000,
+                  "modified": false
+                },
+                "_transitions.scss": {
+                  "type": "-",
+                  "size": 261,
+                  "lmtime": 1565866070000,
+                  "modified": false
+                },
+                "_type.scss": {
+                  "type": "-",
+                  "size": 2244,
+                  "lmtime": 1565866070000,
+                  "modified": false
+                },
+                "_utilities.scss": {
+                  "type": "-",
+                  "size": 502,
+                  "lmtime": 1565866070000,
+                  "modified": false
+                },
+                "_variables.scss": {
+                  "type": "-",
+                  "size": 47767,
+                  "lmtime": 1565866070000,
+                  "modified": false
+                },
+                "mixins": {
+                  "_alert.scss": {
+                    "type": "-",
+                    "size": 242,
+                    "lmtime": 1565866070000,
+                    "modified": false
+                  },
+                  "_background-variant.scss": {
+                    "type": "-",
+                    "size": 474,
+                    "lmtime": 1565866070000,
+                    "modified": false
+                  },
+                  "_badge.scss": {
+                    "type": "-",
+                    "size": 318,
+                    "lmtime": 1565866070000,
+                    "modified": false
+                  },
+                  "_border-radius.scss": {
+                    "type": "-",
+                    "size": 1340,
+                    "lmtime": 1565866070000,
+                    "modified": false
+                  },
+                  "_box-shadow.scss": {
+                    "type": "-",
+                    "size": 532,
+                    "lmtime": 1565866070000,
+                    "modified": false
+                  },
+                  "_breakpoints.scss": {
+                    "type": "-",
+                    "size": 4482,
+                    "lmtime": 1565866070000,
+                    "modified": false
+                  },
+                  "_buttons.scss": {
+                    "type": "-",
+                    "size": 3369,
+                    "lmtime": 1565866070000,
+                    "modified": false
+                  },
+                  "_caret.scss": {
+                    "type": "-",
+                    "size": 1406,
+                    "lmtime": 1565866070000,
+                    "modified": false
+                  },
+                  "_clearfix.scss": {
+                    "type": "-",
+                    "size": 93,
+                    "lmtime": 1565866070000,
+                    "modified": false
+                  },
+                  "_deprecate.scss": {
+                    "type": "-",
+                    "size": 613,
+                    "lmtime": 1565866070000,
+                    "modified": false
+                  },
+                  "_float.scss": {
+                    "type": "-",
+                    "size": 386,
+                    "lmtime": 1565866070000,
+                    "modified": false
+                  },
+                  "_forms.scss": {
+                    "type": "-",
+                    "size": 4912,
+                    "lmtime": 1565866070000,
+                    "modified": false
+                  },
+                  "_gradients.scss": {
+                    "type": "-",
+                    "size": 2050,
+                    "lmtime": 1565866070000,
+                    "modified": false
+                  },
+                  "_grid-framework.scss": {
+                    "type": "-",
+                    "size": 1828,
+                    "lmtime": 1565866070000,
+                    "modified": false
+                  },
+                  "_grid.scss": {
+                    "type": "-",
+                    "size": 1568,
+                    "lmtime": 1565866070000,
+                    "modified": false
+                  },
+                  "_hover.scss": {
+                    "type": "-",
+                    "size": 749,
+                    "lmtime": 1565866070000,
+                    "modified": false
+                  },
+                  "_image.scss": {
+                    "type": "-",
+                    "size": 1159,
+                    "lmtime": 1565866070000,
+                    "modified": false
+                  },
+                  "_list-group.scss": {
+                    "type": "-",
+                    "size": 431,
+                    "lmtime": 1565866070000,
+                    "modified": false
+                  },
+                  "_lists.scss": {
+                    "type": "-",
+                    "size": 168,
+                    "lmtime": 1565866070000,
+                    "modified": false
+                  },
+                  "_nav-divider.scss": {
+                    "type": "-",
+                    "size": 261,
+                    "lmtime": 1565866070000,
+                    "modified": false
+                  },
+                  "_pagination.scss": {
+                    "type": "-",
+                    "size": 462,
+                    "lmtime": 1565866070000,
+                    "modified": false
+                  },
+                  "_reset-text.scss": {
+                    "type": "-",
+                    "size": 479,
+                    "lmtime": 1565866070000,
+                    "modified": false
+                  },
+                  "_resize.scss": {
+                    "type": "-",
+                    "size": 202,
+                    "lmtime": 1565866070000,
+                    "modified": false
+                  },
+                  "_screen-reader.scss": {
+                    "type": "-",
+                    "size": 733,
+                    "lmtime": 1565866070000,
+                    "modified": false
+                  },
+                  "_size.scss": {
+                    "type": "-",
+                    "size": 148,
+                    "lmtime": 1565866070000,
+                    "modified": false
+                  },
+                  "_table-row.scss": {
+                    "type": "-",
+                    "size": 792,
+                    "lmtime": 1565866070000,
+                    "modified": false
+                  },
+                  "_text-emphasis.scss": {
+                    "type": "-",
+                    "size": 364,
+                    "lmtime": 1565866070000,
+                    "modified": false
+                  },
+                  "_text-hide.scss": {
+                    "type": "-",
+                    "size": 326,
+                    "lmtime": 1565866070000,
+                    "modified": false
+                  },
+                  "_text-truncate.scss": {
+                    "type": "-",
+                    "size": 168,
+                    "lmtime": 1565866070000,
+                    "modified": false
+                  },
+                  "_transition.scss": {
+                    "type": "-",
+                    "size": 364,
+                    "lmtime": 1565866070000,
+                    "modified": false
+                  },
+                  "_visibility.scss": {
+                    "type": "-",
+                    "size": 189,
+                    "lmtime": 1565866070000,
+                    "modified": false
+                  }
+                },
+                "utilities": {
+                  "_align.scss": {
+                    "type": "-",
+                    "size": 420,
+                    "lmtime": 1565866070000,
+                    "modified": false
+                  },
+                  "_background.scss": {
+                    "type": "-",
+                    "size": 397,
+                    "lmtime": 1565866070000,
+                    "modified": false
+                  },
+                  "_borders.scss": {
+                    "type": "-",
+                    "size": 1765,
+                    "lmtime": 1565866070000,
+                    "modified": false
+                  },
+                  "_clearfix.scss": {
+                    "type": "-",
+                    "size": 37,
+                    "lmtime": 1565866070000,
+                    "modified": false
+                  },
+                  "_display.scss": {
+                    "type": "-",
+                    "size": 519,
+                    "lmtime": 1565866070000,
+                    "modified": false
+                  },
+                  "_embed.scss": {
+                    "type": "-",
+                    "size": 846,
+                    "lmtime": 1565866070000,
+                    "modified": false
+                  },
+                  "_flex.scss": {
+                    "type": "-",
+                    "size": 2769,
+                    "lmtime": 1565866070000,
+                    "modified": false
+                  },
+                  "_float.scss": {
+                    "type": "-",
+                    "size": 376,
+                    "lmtime": 1565866070000,
+                    "modified": false
+                  },
+                  "_overflow.scss": {
+                    "type": "-",
+                    "size": 133,
+                    "lmtime": 1565866070000,
+                    "modified": false
+                  },
+                  "_position.scss": {
+                    "type": "-",
+                    "size": 484,
+                    "lmtime": 1565866070000,
+                    "modified": false
+                  },
+                  "_screenreaders.scss": {
+                    "type": "-",
+                    "size": 115,
+                    "lmtime": 1565866070000,
+                    "modified": false
+                  },
+                  "_shadows.scss": {
+                    "type": "-",
+                    "size": 249,
+                    "lmtime": 1565866070000,
+                    "modified": false
+                  },
+                  "_sizing.scss": {
+                    "type": "-",
+                    "size": 498,
+                    "lmtime": 1565866070000,
+                    "modified": false
+                  },
+                  "_spacing.scss": {
+                    "type": "-",
+                    "size": 2101,
+                    "lmtime": 1565866070000,
+                    "modified": false
+                  },
+                  "_stretched-link.scss": {
+                    "type": "-",
+                    "size": 431,
+                    "lmtime": 1565866070000,
+                    "modified": false
+                  },
+                  "_text.scss": {
+                    "type": "-",
+                    "size": 2010,
+                    "lmtime": 1565866070000,
+                    "modified": false
+                  },
+                  "_visibility.scss": {
+                    "type": "-",
+                    "size": 174,
+                    "lmtime": 1565866070000,
+                    "modified": false
+                  }
+                },
+                "vendor": {
+                  "_rfs.scss": {
+                    "type": "-",
+                    "size": 6473,
+                    "lmtime": 1565866070000,
+                    "modified": false
+                  }
+                }
+              }
+            }
+          },
+          "vendors": {
+            "bootstrap": {
+              "bootstrap.affix.js": {
+                "type": "-",
+                "size": 4838,
+                "lmtime": 1565866070000,
+                "modified": false
+              },
+              "bootstrap.bundle.js": {
+                "type": "-",
+                "size": 222911,
+                "lmtime": 1565866070000,
+                "modified": false
+              },
+              "bootstrap.bundle.js.map": {
+                "type": "-",
+                "size": 402249,
+                "lmtime": 1565866070000,
+                "modified": false
+              },
+              "bootstrap.bundle.min.js": {
+                "type": "-",
+                "size": 78635,
+                "lmtime": 1565866070000,
+                "modified": false
+              },
+              "bootstrap.bundle.min.js.map": {
+                "type": "-",
+                "size": 311949,
+                "lmtime": 1565866070000,
+                "modified": false
+              },
+              "bootstrap.js": {
+                "type": "-",
+                "size": 131637,
+                "lmtime": 1565866070000,
+                "modified": false
+              },
+              "bootstrap.js.map": {
+                "type": "-",
+                "size": 250568,
+                "lmtime": 1565866070000,
+                "modified": false
+              },
+              "bootstrap.min.js": {
+                "type": "-",
+                "size": 58072,
+                "lmtime": 1565866070000,
+                "modified": false
+              },
+              "bootstrap.min.js.map": {
+                "type": "-",
+                "size": 190253,
+                "lmtime": 1565866070000,
+                "modified": false
+              }
+            },
+            "jquery": {
+              "jquery-3.4.1.js": {
+                "type": "-",
+                "size": 280364,
+                "lmtime": 1565866070000,
+                "modified": false
+              },
+              "jquery-3.4.1.min.js": {
+                "type": "-",
+                "size": 88145,
+                "lmtime": 1565866070000,
+                "modified": false
+              },
+              "jquery-3.4.1.min.map": {
+                "type": "-",
+                "size": 136409,
+                "lmtime": 1565866070000,
+                "modified": false
+              },
+              "jquery-3.4.1.slim.js": {
+                "type": "-",
+                "size": 227022,
+                "lmtime": 1565866070000,
+                "modified": false
+              },
+              "jquery-3.4.1.slim.min.js": {
+                "type": "-",
+                "size": 71037,
+                "lmtime": 1565866070000,
+                "modified": false
+              },
+              "jquery-3.4.1.slim.min.map": {
+                "type": "-",
+                "size": 108769,
+                "lmtime": 1565866070000,
+                "modified": false
+              }
+            },
+            "themify-icons": {
+              "css": {
+                "themify-icons.css": {
+                  "type": "-",
+                  "size": 16450,
+                  "lmtime": 1565866070000,
+                  "modified": false
+                }
+              },
+              "fonts": {
+                "themify.eot": {
+                  "type": "-",
+                  "size": 78748,
+                  "lmtime": 1565866070000,
+                  "modified": false
+                },
+                "themify.svg": {
+                  "type": "-",
+                  "size": 234269,
+                  "lmtime": 1565866070000,
+                  "modified": false
+                },
+                "themify.ttf": {
+                  "type": "-",
+                  "size": 78584,
+                  "lmtime": 1565866070000,
+                  "modified": false
+                },
+                "themify.woff": {
+                  "type": "-",
+                  "size": 56108,
+                  "lmtime": 1565866070000,
+                  "modified": false
+                }
+              }
+            }
+          }
+        },
+        "demo20810206.php": {
+          "type": "-",
+          "size": 1554,
+          "lmtime": 1690656035853.1587,
+          "modified": false
+        },
+        "index.php": {
+          "type": "-",
+          "size": 927,
+          "lmtime": 1690655955866.416,
+          "modified": false
+        }
+      },
+      "tuan-4": {
+        "20810206-SharedParts": {
+          "about-20810206.php": {
+            "type": "-",
+            "size": 2146,
+            "lmtime": 1691331186237.883,
+            "modified": false
+          },
+          "banner-20810206.php": {
+            "type": "-",
+            "size": 878,
+            "lmtime": 1691331357766.4243,
+            "modified": false
+          },
+          "footer-20810206.php": {
+            "type": "-",
+            "size": 3577,
+            "lmtime": 1691331163399.2932,
+            "modified": false
+          },
+          "header-20810206.php": {
+            "type": "-",
+            "size": 1984,
+            "lmtime": 1691331154482.8499,
+            "modified": false
+          },
+          "sv-card-20810206.php": {
+            "type": "-",
+            "size": 362,
+            "lmtime": 1691332782429.0154,
+            "modified": false
+          }
+        },
+        "CSinhVien_20810206.php": {
+          "type": "-",
+          "size": 517,
+          "lmtime": 1691329694882.728,
+          "modified": false
+        },
+        "Lib_20810206.php": {
+          "type": "-",
+          "size": 281,
+          "lmtime": 1691330694386.715,
+          "modified": false
+        },
+        "assets": {
+          "css": {
+            "creative-studio.css": {
+              "type": "-",
+              "size": 247926,
+              "lmtime": 1565877304000,
+              "modified": false
+            }
+          },
+          "imgs": {
+            "about.jpg": {
+              "type": "-",
+              "size": 251683,
+              "lmtime": 1690035183762.9373,
+              "modified": false
+            },
+            "header.jpg": {
+              "type": "-",
+              "size": 284156,
+              "lmtime": 1565446508000,
+              "modified": false
+            },
+            "logo.png": {
+              "type": "-",
+              "size": 14245,
+              "lmtime": 1565866070000,
+              "modified": false
+            }
+          },
+          "js": {
+            "creative-studio.js": {
+              "type": "-",
+              "size": 905,
+              "lmtime": 1690648307653.046,
+              "modified": false
+            }
+          },
+          "vendors": {
+            "bootstrap": {
+              "bootstrap.affix.js": {
+                "type": "-",
+                "size": 4838,
+                "lmtime": 1565866070000,
+                "modified": false
+              },
+              "bootstrap.bundle.js": {
+                "type": "-",
+                "size": 222911,
+                "lmtime": 1565866070000,
+                "modified": false
+              },
+              "bootstrap.bundle.js.map": {
+                "type": "-",
+                "size": 402249,
+                "lmtime": 1565866070000,
+                "modified": false
+              },
+              "bootstrap.bundle.min.js": {
+                "type": "-",
+                "size": 78635,
+                "lmtime": 1565866070000,
+                "modified": false
+              },
+              "bootstrap.bundle.min.js.map": {
+                "type": "-",
+                "size": 311949,
+                "lmtime": 1565866070000,
+                "modified": false
+              },
+              "bootstrap.js": {
+                "type": "-",
+                "size": 131637,
+                "lmtime": 1565866070000,
+                "modified": false
+              },
+              "bootstrap.js.map": {
+                "type": "-",
+                "size": 250568,
+                "lmtime": 1565866070000,
+                "modified": false
+              },
+              "bootstrap.min.js": {
+                "type": "-",
+                "size": 58072,
+                "lmtime": 1565866070000,
+                "modified": false
+              },
+              "bootstrap.min.js.map": {
+                "type": "-",
+                "size": 190253,
+                "lmtime": 1565866070000,
+                "modified": false
+              }
+            },
+            "jquery": {
+              "jquery-3.4.1.js": {
+                "type": "-",
+                "size": 280364,
+                "lmtime": 1565866070000,
+                "modified": false
+              },
+              "jquery-3.4.1.min.js": {
+                "type": "-",
+                "size": 88145,
+                "lmtime": 1565866070000,
+                "modified": false
+              },
+              "jquery-3.4.1.min.map": {
+                "type": "-",
+                "size": 136409,
+                "lmtime": 1565866070000,
+                "modified": false
+              },
+              "jquery-3.4.1.slim.js": {
+                "type": "-",
+                "size": 227022,
+                "lmtime": 1565866070000,
+                "modified": false
+              },
+              "jquery-3.4.1.slim.min.js": {
+                "type": "-",
+                "size": 71037,
+                "lmtime": 1565866070000,
+                "modified": false
+              },
+              "jquery-3.4.1.slim.min.map": {
+                "type": "-",
+                "size": 108769,
+                "lmtime": 1565866070000,
+                "modified": false
+              }
+            },
+            "themify-icons": {
+              "css": {
+                "themify-icons.css": {
+                  "type": "-",
+                  "size": 16450,
+                  "lmtime": 1565866070000,
+                  "modified": false
+                }
+              },
+              "fonts": {
+                "themify.eot": {
+                  "type": "-",
+                  "size": 78748,
+                  "lmtime": 1565866070000,
+                  "modified": false
+                },
+                "themify.svg": {
+                  "type": "-",
+                  "size": 234269,
+                  "lmtime": 1565866070000,
+                  "modified": false
+                },
+                "themify.ttf": {
+                  "type": "-",
+                  "size": 78584,
+                  "lmtime": 1565866070000,
+                  "modified": false
+                },
+                "themify.woff": {
+                  "type": "-",
+                  "size": 56108,
+                  "lmtime": 1565866070000,
+                  "modified": false
+                }
+              }
+            }
+          }
+        },
+        "data_20810206.php": {
+          "type": "-",
+          "size": 663,
+          "lmtime": 1691333475199.4514,
+          "modified": false
+        },
+        "index.php": {
+          "type": "-",
+          "size": 2688,
+          "lmtime": 1691332675218.7817,
+          "modified": false
+        }
+      },
+      "tuan-5": {
+        "css": {
+          "carouFredSel.css": {
+            "type": "-",
+            "size": 1141,
+            "lmtime": 1531159103000,
+            "modified": false
+          },
+          "clear.css": {
+            "type": "-",
+            "size": 1566,
+            "lmtime": 1531159103000,
+            "modified": false
+          },
+          "common.css": {
+            "type": "-",
+            "size": 6633,
+            "lmtime": 1531159103000,
+            "modified": false
+          },
+          "font-awesome.min.css": {
+            "type": "-",
+            "size": 29063,
+            "lmtime": 1531159103000,
+            "modified": false
+          },
+          "sm-clean.css": {
+            "type": "-",
+            "size": 4794,
+            "lmtime": 1531159103000,
+            "modified": false
+          },
+          "style.css": {
+            "type": "-",
+            "size": 23931,
+            "lmtime": 1691862456046.587,
+            "modified": false
+          }
+        },
+        "demo-images": {
+          "katt_about_image01.jpg": {
+            "type": "-",
+            "size": 180761,
+            "lmtime": 1531159103000,
+            "modified": false
+          },
+          "katt_about_image02.jpg": {
+            "type": "-",
+            "size": 36144,
+            "lmtime": 1531159103000,
+            "modified": false
+          },
+          "katt_about_image03.jpg": {
+            "type": "-",
+            "size": 25993,
+            "lmtime": 1531159103000,
+            "modified": false
+          },
+          "katt_about_image04.jpg": {
+            "type": "-",
+            "size": 29886,
+            "lmtime": 1531159103000,
+            "modified": false
+          },
+          "katt_about_image05.jpg": {
+            "type": "-",
+            "size": 27813,
+            "lmtime": 1531159103000,
+            "modified": false
+          },
+          "katt_about_image06.jpg": {
+            "type": "-",
+            "size": 36190,
+            "lmtime": 1531159103000,
+            "modified": false
+          },
+          "katt_about_image07.jpg": {
+            "type": "-",
+            "size": 30324,
+            "lmtime": 1531159103000,
+            "modified": false
+          },
+          "katt_contact_image01.jpg": {
+            "type": "-",
+            "size": 317719,
+            "lmtime": 1531159103000,
+            "modified": false
+          },
+          "katt_home_image01_slider01.jpg": {
+            "type": "-",
+            "size": 70947,
+            "lmtime": 1531159103000,
+            "modified": false
+          },
+          "katt_home_image01_slider02 (1).jpg": {
+            "type": "-",
+            "size": 135530,
+            "lmtime": 1531159103000,
+            "modified": false
+          },
+          "katt_home_image01_slider02.jpg": {
+            "type": "-",
+            "size": 135530,
+            "lmtime": 1531159103000,
+            "modified": false
+          },
+          "katt_home_image01_slider03.jpg": {
+            "type": "-",
+            "size": 95912,
+            "lmtime": 1531159103000,
+            "modified": false
+          },
+          "katt_home_image02.jpg": {
+            "type": "-",
+            "size": 25581,
+            "lmtime": 1531159103000,
+            "modified": false
+          },
+          "katt_home_image03.jpg": {
+            "type": "-",
+            "size": 96330,
+            "lmtime": 1531159103000,
+            "modified": false
+          },
+          "katt_home_image04.jpg": {
+            "type": "-",
+            "size": 13950,
+            "lmtime": 1531159103000,
+            "modified": false
+          },
+          "katt_home_image05.jpg": {
+            "type": "-",
+            "size": 82253,
+            "lmtime": 1531159103000,
+            "modified": false
+          },
+          "katt_post_image01.jpg": {
+            "type": "-",
+            "size": 25937,
+            "lmtime": 1531159103000,
+            "modified": false
+          },
+          "katt_post_image02.jpg": {
+            "type": "-",
+            "size": 10581,
+            "lmtime": 1531159103000,
+            "modified": false
+          }
+        },
+        "fonts": {
+          "FontAwesome.otf": {
+            "type": "-",
+            "size": 124988,
+            "lmtime": 1531159103000,
+            "modified": false
+          },
+          "fontawesome-webfont.eot": {
+            "type": "-",
+            "size": 76518,
+            "lmtime": 1531159103000,
+            "modified": false
+          },
+          "fontawesome-webfont.svg": {
+            "type": "-",
+            "size": 391622,
+            "lmtime": 1531159103000,
+            "modified": false
+          },
+          "fontawesome-webfont.ttf": {
+            "type": "-",
+            "size": 152796,
+            "lmtime": 1531159103000,
+            "modified": false
+          },
+          "fontawesome-webfont.woff": {
+            "type": "-",
+            "size": 90412,
+            "lmtime": 1531159103000,
+            "modified": false
+          },
+          "fontawesome-webfont.woff2": {
+            "type": "-",
+            "size": 71896,
+            "lmtime": 1531159103000,
+            "modified": false
+          }
+        },
+        "images": {
+          "back_to_top.png": {
+            "type": "-",
+            "size": 3842,
+            "lmtime": 1531159103000,
+            "modified": false
+          },
+          "favicon.png": {
+            "type": "-",
+            "size": 761,
+            "lmtime": 1531159103000,
+            "modified": false
+          },
+          "katt_default_footer_logo.png": {
+            "type": "-",
+            "size": 922,
+            "lmtime": 1531159103000,
+            "modified": false
+          },
+          "katt_default_logo.png": {
+            "type": "-",
+            "size": 2007,
+            "lmtime": 1531159103000,
+            "modified": false
+          },
+          "zigzag.png": {
+            "type": "-",
+            "size": 6251,
+            "lmtime": 1531159103000,
+            "modified": false
+          }
+        },
+        "index.php": {
+          "type": "-",
+          "size": 1699,
+          "lmtime": 1691862712585.0242,
+          "modified": false
+        },
+        "js": {
+          "html5.js": {
+            "type": "-",
+            "size": 2429,
+            "lmtime": 1531159103000,
+            "modified": false
+          },
+          "jquery.carouFredSel-6.0.0-packed.js": {
+            "type": "-",
+            "size": 36079,
+            "lmtime": 1531159103000,
+            "modified": false
+          },
+          "jquery.easing.1.3.js": {
+            "type": "-",
+            "size": 1726,
+            "lmtime": 1531159103000,
+            "modified": false
+          },
+          "jquery.js": {
+            "type": "-",
+            "size": 97184,
+            "lmtime": 1531159103000,
+            "modified": false
+          },
+          "jquery.mousewheel.min.js": {
+            "type": "-",
+            "size": 1392,
+            "lmtime": 1531159103000,
+            "modified": false
+          },
+          "jquery.nicescroll.min.js": {
+            "type": "-",
+            "size": 60153,
+            "lmtime": 1531159103000,
+            "modified": false
+          },
+          "jquery.smartmenus.min.js": {
+            "type": "-",
+            "size": 24476,
+            "lmtime": 1531159103000,
+            "modified": false
+          },
+          "jquery.touchSwipe.min.js": {
+            "type": "-",
+            "size": 4313,
+            "lmtime": 1531159103000,
+            "modified": false
+          },
+          "main.js": {
+            "type": "-",
+            "size": 10712,
+            "lmtime": 1531159103000,
+            "modified": false
+          },
+          "queryloader2.min.js": {
+            "type": "-",
+            "size": 12323,
+            "lmtime": 1531159103000,
+            "modified": false
+          }
+        },
+        "katt-master.zip": {
+          "type": "-",
+          "size": 2304379,
+          "lmtime": 1691856942179.3252,
+          "modified": false
+        },
+        "private": {
+          "about_banner.php": {
+            "type": "-",
+            "size": 133,
+            "lmtime": 1691858742127.8525,
+            "modified": false
+          },
+          "about_content.php": {
+            "type": "-",
+            "size": 7897,
+            "lmtime": 1691859483597.0325,
+            "modified": false
+          },
+          "contact_banner.php": {
+            "type": "-",
+            "size": 137,
+            "lmtime": 1691859066854.1926,
+            "modified": false
+          },
+          "contact_content.php": {
+            "type": "-",
+            "size": 5956,
+            "lmtime": 1691863768747.2407,
+            "modified": false
+          },
+          "home_banner.php": {
+            "type": "-",
+            "size": 1428,
+            "lmtime": 1691859753496.0806,
+            "modified": false
+          },
+          "home_content.php": {
+            "type": "-",
+            "size": 4764,
+            "lmtime": 1691859473303.7285,
+            "modified": false
+          },
+          "single_banner.php": {
+            "type": "-",
+            "size": 101,
+            "lmtime": 1691863677709.7024,
+            "modified": false
+          },
+          "single_content.php": {
+            "type": "-",
+            "size": 5271,
+            "lmtime": 1691862889653.6384,
+            "modified": false
+          },
+          "submit_content.php": {
+            "type": "-",
+            "size": 3444,
+            "lmtime": 1691863786948.6863,
+            "modified": false
+          }
+        },
+        "public": {
+          "public_footer.php": {
+            "type": "-",
+            "size": 850,
+            "lmtime": 1691859295260.7744,
+            "modified": false
+          },
+          "public_header.php": {
+            "type": "-",
+            "size": 931,
+            "lmtime": 1691860140501.4038,
+            "modified": false
+          }
+        },
+        "templates": {
+          "katt-master.php": {
+            "type": "-",
+            "size": 2535,
+            "lmtime": 1691862202641.2083,
+            "modified": false
+          }
+        }
+      },
+      "tuan-6": {
+        "allowed_file_type.php": {
+          "type": "-",
+          "size": 2129,
+          "lmtime": 1693240952863.0557,
+          "modified": false
+        },
+        "assets": {
+          "css": {
+            "flex-slider.css": {
+              "type": "-",
+              "size": 7247,
+              "lmtime": 1549391782618.8474,
+              "modified": false
+            },
+            "fontawesome.css": {
+              "type": "-",
+              "size": 23742,
+              "lmtime": 1549391781471.7202,
+              "modified": false
+            },
+            "owl.css": {
+              "type": "-",
+              "size": 4928,
+              "lmtime": 1549391779292.0964,
+              "modified": false
+            },
+            "templatemo-style.css": {
+              "type": "-",
+              "size": 26870,
+              "lmtime": 1693239464168.3086,
+              "modified": false
+            }
+          },
+          "fonts": {
+            "Flaticon.woff": {
+              "type": "-",
+              "size": 9608,
+              "lmtime": 1549391812410.756,
+              "modified": false
+            },
+            "FontAwesome.otf": {
+              "type": "-",
+              "size": 93888,
+              "lmtime": 1549391814839.5654,
+              "modified": false
+            },
+            "flexslider-icon.eot": {
+              "type": "-",
+              "size": 2082,
+              "lmtime": 1549391810934.894,
+              "modified": false
+            },
+            "flexslider-icon.svg": {
+              "type": "-",
+              "size": 2352,
+              "lmtime": 1549391810543.4768,
+              "modified": false
+            },
+            "flexslider-icon.ttf": {
+              "type": "-",
+              "size": 1892,
+              "lmtime": 1549391809775.7512,
+              "modified": false
+            },
+            "flexslider-icon.woff": {
+              "type": "-",
+              "size": 1268,
+              "lmtime": 1549391806091.669,
+              "modified": false
+            },
+            "fontawesome-webfont.eot": {
+              "type": "-",
+              "size": 60767,
+              "lmtime": 1549391802483.8132,
+              "modified": false
+            },
+            "fontawesome-webfont.svg": {
+              "type": "-",
+              "size": 313962,
+              "lmtime": 1549391809148.17,
+              "modified": false
+            },
+            "fontawesome-webfont.ttf": {
+              "type": "-",
+              "size": 122092,
+              "lmtime": 1549391798282.0835,
+              "modified": false
+            },
+            "fontawesome-webfont.woff": {
+              "type": "-",
+              "size": 71508,
+              "lmtime": 1549391791096.5476,
+              "modified": false
+            },
+            "fontawesome-webfont.woff2": {
+              "type": "-",
+              "size": 56780,
+              "lmtime": 1549391788262.2727,
+              "modified": false
+            },
+            "slick.eot": {
+              "type": "-",
+              "size": 2048,
+              "lmtime": 1549391785596.8542,
+              "modified": false
+            },
+            "slick.svg": {
+              "type": "-",
+              "size": 2166,
+              "lmtime": 1549391784984.8564,
+              "modified": false
+            },
+            "slick.ttf": {
+              "type": "-",
+              "size": 1892,
+              "lmtime": 1549391784389.8633,
+              "modified": false
+            },
+            "slick.woff": {
+              "type": "-",
+              "size": 1380,
+              "lmtime": 1549391783511.605,
+              "modified": false
+            }
+          },
+          "images": {
+            "featured_post_01.jpg": {
+              "type": "-",
+              "size": 19868,
+              "lmtime": 1549391842169.9585,
+              "modified": false
+            },
+            "simple-post.jpg": {
+              "type": "-",
+              "size": 142934,
+              "lmtime": 1549391821268.6326,
+              "modified": false
+            }
+          },
+          "js": {
+            "breakpoints.min.js": {
+              "type": "-",
+              "size": 2440,
+              "lmtime": 1549391855749.6016,
+              "modified": false
+            },
+            "browser.min.js": {
+              "type": "-",
+              "size": 1852,
+              "lmtime": 1549391854618.3062,
+              "modified": false
+            },
+            "custom.js": {
+              "type": "-",
+              "size": 6174,
+              "lmtime": 1549391853396.2822,
+              "modified": false
+            },
+            "owl-carousel.js": {
+              "type": "-",
+              "size": 93438,
+              "lmtime": 1549391851953.5845,
+              "modified": false
+            },
+            "transition.js": {
+              "type": "-",
+              "size": 12433,
+              "lmtime": 1549391846812.348,
+              "modified": false
+            }
+          }
+        },
+        "ds_nop_bai.php": {
+          "type": "-",
+          "size": 2498,
+          "lmtime": 1693241752627.304,
+          "modified": false
+        },
+        "index.php": {
+          "type": "-",
+          "size": 7355,
+          "lmtime": 1693240711717.5144,
+          "modified": false
+        },
+        "lophoc.data": {
+          "type": "-",
+          "size": 744,
+          "lmtime": 1693241819392.986,
+          "modified": false
+        },
+        "nop-bai": {
+          "230828.165025_Screenshot 2023-03-12 104048.png": {
+            "type": "-",
+            "size": 449708,
+            "lmtime": 1693241425796.739,
+            "modified": false
+          },
+          "230828.165051_Screenshot 2023-05-01 163228.png": {
+            "type": "-",
+            "size": 600752,
+            "lmtime": 1693241451365.4382,
+            "modified": false
+          },
+          "230828.165219_New Text Document.txt": {
+            "type": "-",
+            "size": 44,
+            "lmtime": 1693241539856.171,
+            "modified": false
+          },
+          "230828.165233_New Rich Text Document.rtf": {
+            "type": "-",
+            "size": 42019,
+            "lmtime": 1693241553769.0288,
+            "modified": false
+          },
+          "230828.165319_templatemo_529_ramayana.zip": {
+            "type": "-",
+            "size": 1847996,
+            "lmtime": 1693241599884.79,
+            "modified": false
+          }
+        },
+        "vendor": {
+          "bootstrap": {
+            "css": {
+              "bootstrap.css": {
+                "type": "-",
+                "size": 198884,
+                "lmtime": 1549391888833.1533,
+                "modified": false
+              },
+              "bootstrap.css.map": {
+                "type": "-",
+                "size": 430003,
+                "lmtime": 1549391886339.5056,
+                "modified": false
+              },
+              "bootstrap.min.css": {
+                "type": "-",
+                "size": 153188,
+                "lmtime": 1549391873984.8933,
+                "modified": false
+              },
+              "bootstrap.min.css.map": {
+                "type": "-",
+                "size": 562427,
+                "lmtime": 1549391872572.2095,
+                "modified": false
+              }
+            },
+            "js": {
+              "bootstrap.bundle.js": {
+                "type": "-",
+                "size": 223928,
+                "lmtime": 1549391930605.3403,
+                "modified": false
+              },
+              "bootstrap.bundle.js.map": {
+                "type": "-",
+                "size": 358832,
+                "lmtime": 1549391925128.3254,
+                "modified": false
+              },
+              "bootstrap.bundle.min.js": {
+                "type": "-",
+                "size": 76314,
+                "lmtime": 1549391910768.002,
+                "modified": false
+              },
+              "bootstrap.bundle.min.js.map": {
+                "type": "-",
+                "size": 294126,
+                "lmtime": 1549391914611.8198,
+                "modified": false
+              },
+              "bootstrap.js": {
+                "type": "-",
+                "size": 130293,
+                "lmtime": 1549391901031.4395,
+                "modified": false
+              },
+              "bootstrap.js.map": {
+                "type": "-",
+                "size": 211967,
+                "lmtime": 1549391906457.297,
+                "modified": false
+              },
+              "bootstrap.min.js": {
+                "type": "-",
+                "size": 55781,
+                "lmtime": 1549391895981.3481,
+                "modified": false
+              },
+              "bootstrap.min.js.map": {
+                "type": "-",
+                "size": 176087,
+                "lmtime": 1549391895950.122,
+                "modified": false
+              }
+            }
+          },
+          "jquery": {
+            "jquery.js": {
+              "type": "-",
+              "size": 282115,
+              "lmtime": 1549391950600.5256,
+              "modified": false
+            },
+            "jquery.min.js": {
+              "type": "-",
+              "size": 86927,
+              "lmtime": 1549391943617.5696,
+              "modified": false
+            },
+            "jquery.min.map": {
+              "type": "-",
+              "size": 132370,
+              "lmtime": 1549391943211.3347,
+              "modified": false
+            },
+            "jquery.slim.js": {
+              "type": "-",
+              "size": 227166,
+              "lmtime": 1549391938145.7788,
+              "modified": false
+            },
+            "jquery.slim.min.js": {
+              "type": "-",
+              "size": 69919,
+              "lmtime": 1549391933488.0957,
+              "modified": false
+            },
+            "jquery.slim.min.map": {
+              "type": "-",
+              "size": 105346,
+              "lmtime": 1549391929177.6958,
+              "modified": false
+            }
+          }
+        },
+        "xu_ly_form.php": {
+          "type": "-",
+          "size": 6837,
+          "lmtime": 1693241432590.584,
+          "modified": false
+        }
+      },
+      "tuan-7": {
+        "index.php": {
+          "type": "-",
+          "size": 264,
+          "lmtime": 1690037046487.5254,
+          "modified": false
+        }
+      },
+      "tuan-8": {
+        "index.php": {
+          "type": "-",
+          "size": 264,
+          "lmtime": 1690037059700.1912,
+          "modified": false
+        }
+      },
+      "tuan-9": {
+        "index.php": {
+          "type": "-",
+          "size": 264,
+          "lmtime": 1690037070418.532,
+          "modified": false
+        }
+      },
+      "2k13E-20810206-Web2.zip": {
+        "type": "-",
+        "size": 1690517,
+        "lmtime": 1692192364805.362,
+        "modified": false
+      }
+    }
+  },
+  "$version": 1
+}

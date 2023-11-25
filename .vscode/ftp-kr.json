@@ -1,0 +1,21 @@
+{
+    "host": "ftpupload.net",
+    "username": "if0_34646636",
+    "password": "EHWwPCemSXACoE",
+    "remotePath": "/htdocs",
+    "protocol": "ftp",
+    "port": 21,
+    "fileNameEncoding": "utf8",
+    "autoUpload": false,
+    "autoDelete": true,
+    "autoDownload": false,
+    "ignore": [
+        ".git",
+        "/.vscode",
+        "wamplangues",
+        "wampthemes",
+        "add_vhost.php",
+        "test_sockets.php",
+        "testmysql.php"
+    ]
+}
